@@ -4,7 +4,4 @@ It is my first repository.
 Test627 branch
 Checkout for ck
 I am master
-<<<<<<< HEAD
 I am testprject branch
-=======
->>>>>>> master
