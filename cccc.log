@@ -1,0 +1,1455 @@
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-43
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -46.0
+I/RangedIBeacon(15093): Now:1446603014258, timestamp:1446603014258, timestamp2:1446603013256
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-43
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -45.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-46
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603015284, timestamp:1446603015284, timestamp2:1446603014258
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-46
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603015286, timestamp:1446603015286, timestamp2:1446603015284
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-40
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603016304, timestamp:1446603016304, timestamp2:1446603015286
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-40
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603016309, timestamp:1446603016308, timestamp2:1446603016304
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-44
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603017312, timestamp:1446603017312, timestamp2:1446603016308
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-44
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603017313, timestamp:1446603017313, timestamp2:1446603017312
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603018339, timestamp:1446603018339, timestamp2:1446603017313
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603018342, timestamp:1446603018342, timestamp2:1446603018339
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -46
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603019347, timestamp:1446603019347, timestamp2:1446603018342
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -43.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -42.0
+I/RangedIBeacon(15093): Now:1446603020370, timestamp:1446603020370, timestamp2:1446603019348
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -42.0
+I/RangedIBeacon(15093): Now:1446603020371, timestamp:1446603020371, timestamp2:1446603020370
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-46
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603021388, timestamp:1446603021388, timestamp2:1446603020371
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-46
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603021389, timestamp:1446603021389, timestamp2:1446603021388
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603022406, timestamp:1446603022406, timestamp2:1446603021389
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603022407, timestamp:1446603022407, timestamp2:1446603022406
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -42.0
+I/RangedIBeacon(15093): Now:1446603023404, timestamp:1446603023404, timestamp2:1446603022407
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -42.0
+I/RangedIBeacon(15093): Now:1446603023404, timestamp:1446603023404, timestamp2:1446603023404
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -42.0
+I/RangedIBeacon(15093): Now:1446603024433, timestamp:1446603024432, timestamp2:1446603023404
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -42.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603025450, timestamp:1446603025449, timestamp2:1446603024437
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603025454, timestamp:1446603025454, timestamp2:1446603025449
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-44
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -42.0
+I/RangedIBeacon(15093): Now:1446603026471, timestamp:1446603026471, timestamp2:1446603025454
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-44
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -42.0
+I/RangedIBeacon(15093): Now:1446603026473, timestamp:1446603026472, timestamp2:1446603026471
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603027487, timestamp:1446603027487, timestamp2:1446603026472
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -42.0
+I/RangedIBeacon(15093): Now:1446603027489, timestamp:1446603027488, timestamp2:1446603027487
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603028484, timestamp:1446603028484, timestamp2:1446603027488
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -43.0
+I/RangedIBeacon(15093): Now:1446603028485, timestamp:1446603028485, timestamp2:1446603028484
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -42
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603029508, timestamp:1446603029508, timestamp2:1446603028485
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -44.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-46
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603030526, timestamp:1446603030526, timestamp2:1446603029510
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-46
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603030527, timestamp:1446603030527, timestamp2:1446603030526
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603031545, timestamp:1446603031544, timestamp2:1446603030527
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-45
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603031546, timestamp:1446603031546, timestamp2:1446603031544
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603032562, timestamp:1446603032562, timestamp2:1446603031546
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603032564, timestamp:1446603032564, timestamp2:1446603032562
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-43
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603033560, timestamp:1446603033560, timestamp2:1446603032564
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-43
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603033560, timestamp:1446603033560, timestamp2:1446603033560
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -43
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-53
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603034587, timestamp:1446603034586, timestamp2:1446603033560
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-53
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -44.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-49
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603036268, timestamp:1446603036268, timestamp2:1446603034588
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-49
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603036270, timestamp:1446603036270, timestamp2:1446603036268
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 5
+D/RangedIBeacon(15093): Running average rssi based on 7 measurements: -47.0
+I/RangedIBeacon(15093): Now:1446603038341, timestamp:1446603038341, timestamp2:1446603036270
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 6
+D/RangedIBeacon(15093): Running average rssi based on 8 measurements: -46.0
+I/RangedIBeacon(15093): Now:1446603038348, timestamp:1446603038348, timestamp2:1446603038341
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-40
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 5
+D/RangedIBeacon(15093): Running average rssi based on 7 measurements: -46.0
+I/RangedIBeacon(15093): Now:1446603039341, timestamp:1446603039341, timestamp2:1446603038348
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-40
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 6
+D/RangedIBeacon(15093): Running average rssi based on 8 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603039344, timestamp:1446603039343, timestamp2:1446603039341
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-60
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 5
+D/RangedIBeacon(15093): Running average rssi based on 7 measurements: -44.0
+I/RangedIBeacon(15093): Now:1446603040360, timestamp:1446603040360, timestamp2:1446603039343
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-60
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 6
+D/RangedIBeacon(15093): Running average rssi based on 8 measurements: -46.0
+I/RangedIBeacon(15093): Now:1446603040363, timestamp:1446603040363, timestamp2:1446603040360
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-56
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 5
+D/RangedIBeacon(15093): Running average rssi based on 7 measurements: -47.0
+I/RangedIBeacon(15093): Now:1446603041380, timestamp:1446603041379, timestamp2:1446603040363
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-64
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 6
+D/RangedIBeacon(15093): Running average rssi based on 8 measurements: -49.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-58
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -50.0
+I/RangedIBeacon(15093): Now:1446603042402, timestamp:1446603042402, timestamp2:1446603041382
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-58
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -52.0
+I/RangedIBeacon(15093): Now:1446603042404, timestamp:1446603042404, timestamp2:1446603042402
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-55
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -55.0
+I/RangedIBeacon(15093): Now:1446603043428, timestamp:1446603043428, timestamp2:1446603042404
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-55
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -57.0
+I/RangedIBeacon(15093): Now:1446603043432, timestamp:1446603043432, timestamp2:1446603043428
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-57
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -57.0
+I/RangedIBeacon(15093): Now:1446603044428, timestamp:1446603044428, timestamp2:1446603043432
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-57
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -57.0
+I/RangedIBeacon(15093): Now:1446603044430, timestamp:1446603044430, timestamp2:1446603044428
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-58
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -57.0
+I/RangedIBeacon(15093): Now:1446603045459, timestamp:1446603045458, timestamp2:1446603044430
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-58
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -57.0
+I/RangedIBeacon(15093): Now:1446603045460, timestamp:1446603045460, timestamp2:1446603045458
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -48
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-59
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -57.0
+I/RangedIBeacon(15093): Now:1446603046480, timestamp:1446603046480, timestamp2:1446603045460
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-59
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -57.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-48
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -57.0
+I/RangedIBeacon(15093): Now:1446603047495, timestamp:1446603047495, timestamp2:1446603046487
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-48
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -56.0
+I/RangedIBeacon(15093): Now:1446603047496, timestamp:1446603047496, timestamp2:1446603047495
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-52
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -55.0
+I/RangedIBeacon(15093): Now:1446603048525, timestamp:1446603048524, timestamp2:1446603047496
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-52
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -55.0
+I/RangedIBeacon(15093): Now:1446603048531, timestamp:1446603048528, timestamp2:1446603048524
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -53.0
+I/RangedIBeacon(15093): Now:1446603049524, timestamp:1446603049524, timestamp2:1446603048528
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-42
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -52.0
+I/RangedIBeacon(15093): Now:1446603049524, timestamp:1446603049524, timestamp2:1446603049524
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-66
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -51.0
+I/RangedIBeacon(15093): Now:1446603050544, timestamp:1446603050544, timestamp2:1446603049524
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-66
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -53.0
+I/RangedIBeacon(15093): Now:1446603050545, timestamp:1446603050545, timestamp2:1446603050544
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -57
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -53.0
+I/RangedIBeacon(15093): Now:1446603051558, timestamp:1446603051558, timestamp2:1446603050545
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -55.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-75
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -61.0
+I/RangedIBeacon(15093): Now:1446603052585, timestamp:1446603052585, timestamp2:1446603051559
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-75
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -64.0
+I/RangedIBeacon(15093): Now:1446603052589, timestamp:1446603052588, timestamp2:1446603052585
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -68.0
+I/RangedIBeacon(15093): Now:1446603053610, timestamp:1446603053610, timestamp2:1446603052588
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -72.0
+I/RangedIBeacon(15093): Now:1446603053612, timestamp:1446603053612, timestamp2:1446603053610
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603054607, timestamp:1446603054607, timestamp2:1446603053612
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603054608, timestamp:1446603054608, timestamp2:1446603054607
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-79
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603055634, timestamp:1446603055634, timestamp2:1446603054608
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-79
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603055634, timestamp:1446603055634, timestamp2:1446603055634
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603056653, timestamp:1446603056653, timestamp2:1446603055634
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-76
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603057682, timestamp:1446603057682, timestamp2:1446603056654
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-76
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603057683, timestamp:1446603057683, timestamp2:1446603057682
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603058705, timestamp:1446603058704, timestamp2:1446603057683
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603058706, timestamp:1446603058706, timestamp2:1446603058704
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603059707, timestamp:1446603059707, timestamp2:1446603058706
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603059708, timestamp:1446603059708, timestamp2:1446603059707
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603060726, timestamp:1446603060726, timestamp2:1446603059708
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603060729, timestamp:1446603060729, timestamp2:1446603060726
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603061752, timestamp:1446603061752, timestamp2:1446603060729
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603062771, timestamp:1446603062771, timestamp2:1446603061754
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603062771, timestamp:1446603062771, timestamp2:1446603062771
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603063801, timestamp:1446603063799, timestamp2:1446603062771
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603063803, timestamp:1446603063803, timestamp2:1446603063799
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-72
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603064818, timestamp:1446603064818, timestamp2:1446603063803
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-72
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603064820, timestamp:1446603064820, timestamp2:1446603064818
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603065827, timestamp:1446603065827, timestamp2:1446603064820
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603065829, timestamp:1446603065828, timestamp2:1446603065827
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603066836, timestamp:1446603066836, timestamp2:1446603065828
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-74
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603067866, timestamp:1446603067866, timestamp2:1446603066837
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-74
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603067867, timestamp:1446603067867, timestamp2:1446603067866
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -73.0
+I/RangedIBeacon(15093): Now:1446603068891, timestamp:1446603068891, timestamp2:1446603067867
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -73.0
+I/RangedIBeacon(15093): Now:1446603068894, timestamp:1446603068894, timestamp2:1446603068891
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-70
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -74.0
+I/RangedIBeacon(15093): Now:1446603069891, timestamp:1446603069891, timestamp2:1446603068894
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-70
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -73.0
+I/RangedIBeacon(15093): Now:1446603069892, timestamp:1446603069892, timestamp2:1446603069891
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-74
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -72.0
+I/RangedIBeacon(15093): Now:1446603070919, timestamp:1446603070918, timestamp2:1446603069892
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-74
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -73.0
+I/RangedIBeacon(15093): Now:1446603070920, timestamp:1446603070920, timestamp2:1446603070918
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-74
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -73.0
+I/RangedIBeacon(15093): Now:1446603071944, timestamp:1446603071942, timestamp2:1446603070920
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-74
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -73.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-70
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -72.0
+I/RangedIBeacon(15093): Now:1446603072966, timestamp:1446603072966, timestamp2:1446603071946
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-70
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -72.0
+I/RangedIBeacon(15093): Now:1446603072970, timestamp:1446603072969, timestamp2:1446603072966
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-74
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -72.0
+I/RangedIBeacon(15093): Now:1446603073989, timestamp:1446603073989, timestamp2:1446603072969
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-74
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -72.0
+I/RangedIBeacon(15093): Now:1446603073993, timestamp:1446603073993, timestamp2:1446603073989
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-84
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -73.0
+I/RangedIBeacon(15093): Now:1446603074995, timestamp:1446603074995, timestamp2:1446603073993
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-84
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -74.0
+I/RangedIBeacon(15093): Now:1446603074999, timestamp:1446603074997, timestamp2:1446603074995
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603076024, timestamp:1446603076023, timestamp2:1446603074997
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603076025, timestamp:1446603076025, timestamp2:1446603076023
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -72
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603077043, timestamp:1446603077043, timestamp2:1446603076025
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -75.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603078056, timestamp:1446603078056, timestamp2:1446603077047
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -78.0
+I/RangedIBeacon(15093): Now:1446603078056, timestamp:1446603078056, timestamp2:1446603078056
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -79.0
+I/RangedIBeacon(15093): Now:1446603079084, timestamp:1446603079082, timestamp2:1446603078056
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603079086, timestamp:1446603079086, timestamp2:1446603079082
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -79.0
+I/RangedIBeacon(15093): Now:1446603080083, timestamp:1446603080083, timestamp2:1446603079086
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603080084, timestamp:1446603080084, timestamp2:1446603080083
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-79
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -78.0
+I/RangedIBeacon(15093): Now:1446603081114, timestamp:1446603081113, timestamp2:1446603080084
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-79
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -79.0
+I/RangedIBeacon(15093): Now:1446603081115, timestamp:1446603081115, timestamp2:1446603081113
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -76
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -79.0
+I/RangedIBeacon(15093): Now:1446603082140, timestamp:1446603082139, timestamp2:1446603081115
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-82
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -79.0
+I/RangedIBeacon(15093): Now:1446603083164, timestamp:1446603083164, timestamp2:1446603082142
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-82
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603083166, timestamp:1446603083166, timestamp2:1446603083164
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-87
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603084190, timestamp:1446603084190, timestamp2:1446603083166
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-87
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603084191, timestamp:1446603084191, timestamp2:1446603084190
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-82
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -81.0
+I/RangedIBeacon(15093): Now:1446603085212, timestamp:1446603085212, timestamp2:1446603084191
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-82
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -81.0
+I/RangedIBeacon(15093): Now:1446603085218, timestamp:1446603085216, timestamp2:1446603085212
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -82.0
+I/RangedIBeacon(15093): Now:1446603086239, timestamp:1446603086237, timestamp2:1446603085216
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -81.0
+I/RangedIBeacon(15093): Now:1446603086241, timestamp:1446603086241, timestamp2:1446603086237
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-93
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -82.0
+I/RangedIBeacon(15093): Now:1446603087239, timestamp:1446603087238, timestamp2:1446603086241
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 0
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-93
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -83.0
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-86
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -84.0
+I/RangedIBeacon(15093): Now:1446603088265, timestamp:1446603088265, timestamp2:1446603087239
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-86
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -85.0
+I/RangedIBeacon(15093): Now:1446603088269, timestamp:1446603088269, timestamp2:1446603088265
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-85
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -83.0
+I/RangedIBeacon(15093): Now:1446603089283, timestamp:1446603089283, timestamp2:1446603088269
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-85
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -84.0
+I/RangedIBeacon(15093): Now:1446603089285, timestamp:1446603089285, timestamp2:1446603089283
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 5
+D/RangedIBeacon(15093): size = 5
+D/RangedIBeacon(15093): inMeetingRoom = 0
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -87
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-85
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -84.0
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -87
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-85
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -85.0
+I/RangedIBeacon(15093): Now:1446603090284, timestamp:1446603090284, timestamp2:1446603090284
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -87
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-81
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -86.0
+I/RangedIBeacon(15093): Now:1446603091311, timestamp:1446603091311, timestamp2:1446603090284
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -87
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-81
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -85.0
+I/RangedIBeacon(15093): Now:1446603091313, timestamp:1446603091313, timestamp2:1446603091311
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -87
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -84.0
+I/RangedIBeacon(15093): Now:1446603092345, timestamp:1446603092345, timestamp2:1446603091313
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 5
+D/RangedIBeacon(15093): size = 5
+D/RangedIBeacon(15093): inMeetingRoom = 0
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -83.0
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -81.0
+I/RangedIBeacon(15093): Now:1446603093366, timestamp:1446603093366, timestamp2:1446603092348
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -81.0
+I/RangedIBeacon(15093): Now:1446603093371, timestamp:1446603093370, timestamp2:1446603093366
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-34
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -69.0
+I/RangedIBeacon(15093): Now:1446603094393, timestamp:1446603094393, timestamp2:1446603093370
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -82
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-34
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -66.0
+I/RangedIBeacon(15093): Now:1446603094394, timestamp:1446603094394, timestamp2:1446603094393
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 5
+D/RangedIBeacon(15093): size = 5
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -56.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -53.0
+I/RangedIBeacon(15093): Now:1446603095395, timestamp:1446603095394, timestamp2:1446603095392
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603096422, timestamp:1446603096422, timestamp2:1446603095394
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -41.0
+I/RangedIBeacon(15093): Now:1446603096423, timestamp:1446603096423, timestamp2:1446603096422
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-33
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -39.0
+I/RangedIBeacon(15093): Now:1446603097438, timestamp:1446603097437, timestamp2:1446603096423
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-33
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -38.0
+I/RangedIBeacon(15093): Now:1446603097442, timestamp:1446603097442, timestamp2:1446603097437
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-56
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -37.0
+I/RangedIBeacon(15093): Now:1446603098445, timestamp:1446603098445, timestamp2:1446603097442
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-64
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -38.0
+I/RangedIBeacon(15093): Now:1446603098446, timestamp:1446603098446, timestamp2:1446603098445
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-82
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -45.0
+I/RangedIBeacon(15093): Now:1446603099472, timestamp:1446603099472, timestamp2:1446603098446
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -45
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-82
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -47.0
+I/RangedIBeacon(15093): Now:1446603099474, timestamp:1446603099474, timestamp2:1446603099472
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-87
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -57.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-87
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -61.0
+I/RangedIBeacon(15093): Now:1446603100478, timestamp:1446603100478, timestamp2:1446603100477
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -68.0
+I/RangedIBeacon(15093): Now:1446603101509, timestamp:1446603101509, timestamp2:1446603100478
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -73.0
+I/RangedIBeacon(15093): Now:1446603101514, timestamp:1446603101514, timestamp2:1446603101509
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -78.0
+I/RangedIBeacon(15093): Now:1446603102526, timestamp:1446603102526, timestamp2:1446603101514
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -79.0
+I/RangedIBeacon(15093): Now:1446603102528, timestamp:1446603102527, timestamp2:1446603102526
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603103554, timestamp:1446603103554, timestamp2:1446603102527
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -79.0
+I/RangedIBeacon(15093): Now:1446603103556, timestamp:1446603103555, timestamp2:1446603103554
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -79.0
+I/RangedIBeacon(15093): Now:1446603104575, timestamp:1446603104574, timestamp2:1446603103555
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -51
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603104580, timestamp:1446603104580, timestamp2:1446603104574
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603105572, timestamp:1446603105572, timestamp2:1446603105571
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603106601, timestamp:1446603106600, timestamp2:1446603105572
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603106604, timestamp:1446603106604, timestamp2:1446603106600
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603107623, timestamp:1446603107623, timestamp2:1446603106604
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603107631, timestamp:1446603107628, timestamp2:1446603107623
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603108642, timestamp:1446603108642, timestamp2:1446603107628
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603108645, timestamp:1446603108644, timestamp2:1446603108642
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603109659, timestamp:1446603109658, timestamp2:1446603108644
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603109660, timestamp:1446603109660, timestamp2:1446603109658
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603110668, timestamp:1446603110668, timestamp2:1446603110667
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603111678, timestamp:1446603111678, timestamp2:1446603110668
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603111679, timestamp:1446603111679, timestamp2:1446603111678
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-72
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603112709, timestamp:1446603112708, timestamp2:1446603111679
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-72
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603112714, timestamp:1446603112713, timestamp2:1446603112708
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-75
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603113724, timestamp:1446603113724, timestamp2:1446603112713
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-75
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603113724, timestamp:1446603113724, timestamp2:1446603113724
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-76
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603114750, timestamp:1446603114749, timestamp2:1446603113724
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -77
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-76
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603114751, timestamp:1446603114751, timestamp2:1446603114749
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -75.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603115754, timestamp:1446603115754, timestamp2:1446603115754
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603116780, timestamp:1446603116779, timestamp2:1446603115754
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-78
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603116785, timestamp:1446603116785, timestamp2:1446603116779
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603117795, timestamp:1446603117795, timestamp2:1446603116785
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603117797, timestamp:1446603117797, timestamp2:1446603117795
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-59
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603118825, timestamp:1446603118825, timestamp2:1446603117797
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-59
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -76.0
+I/RangedIBeacon(15093): Now:1446603118827, timestamp:1446603118827, timestamp2:1446603118825
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -74.0
+I/RangedIBeacon(15093): Now:1446603119850, timestamp:1446603119848, timestamp2:1446603118827
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -75
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603119851, timestamp:1446603119851, timestamp2:1446603119848
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-72
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -73.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-72
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603120851, timestamp:1446603120851, timestamp2:1446603120850
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-75
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -72.0
+I/RangedIBeacon(15093): Now:1446603121866, timestamp:1446603121866, timestamp2:1446603120851
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-75
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -74.0
+I/RangedIBeacon(15093): Now:1446603121866, timestamp:1446603121866, timestamp2:1446603121866
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -71.0
+I/RangedIBeacon(15093): Now:1446603122893, timestamp:1446603122893, timestamp2:1446603121866
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -73.0
+I/RangedIBeacon(15093): Now:1446603122895, timestamp:1446603122895, timestamp2:1446603122893
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-90
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -74.0
+I/RangedIBeacon(15093): Now:1446603123912, timestamp:1446603123912, timestamp2:1446603122895
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-90
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603123913, timestamp:1446603123913, timestamp2:1446603123912
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-86
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603124936, timestamp:1446603124935, timestamp2:1446603123913
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -73
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-86
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -78.0
+I/RangedIBeacon(15093): Now:1446603124938, timestamp:1446603124938, timestamp2:1446603124935
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-89
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -82.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-89
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -83.0
+I/RangedIBeacon(15093): Now:1446603125936, timestamp:1446603125936, timestamp2:1446603125935
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -84.0
+I/RangedIBeacon(15093): Now:1446603126965, timestamp:1446603126964, timestamp2:1446603125936
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-77
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -84.0
+I/RangedIBeacon(15093): Now:1446603126967, timestamp:1446603126967, timestamp2:1446603126964
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -85.0
+I/RangedIBeacon(15093): Now:1446603127991, timestamp:1446603127990, timestamp2:1446603126967
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -85.0
+I/RangedIBeacon(15093): Now:1446603127993, timestamp:1446603127993, timestamp2:1446603127990
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 6
+D/RangedIBeacon(15093): calculateAverageRssi size: 6 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-81
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -82.0
+I/RangedIBeacon(15093): Now:1446603129005, timestamp:1446603129005, timestamp2:1446603127993
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 7
+D/RangedIBeacon(15093): calculateAverageRssi size: 7 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-81
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -82.0
+I/RangedIBeacon(15093): Now:1446603129006, timestamp:1446603129006, timestamp2:1446603129005
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 8
+D/RangedIBeacon(15093): calculateAverageRssi size: 8 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-81
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -81.0
+I/RangedIBeacon(15093): Now:1446603130026, timestamp:1446603130025, timestamp2:1446603129006
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 9
+D/RangedIBeacon(15093): calculateAverageRssi size: 9 averageRssi: -79
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-81
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603130027, timestamp:1446603130027, timestamp2:1446603130025
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 10
+D/RangedIBeacon(15093): size = 10
+D/RangedIBeacon(15093): inMeetingRoom = 0
+D/RangedIBeacon(15093): calculateAverageRssi size: 10 averageRssi: -81
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -80.0
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -81
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603131027, timestamp:1446603131027, timestamp2:1446603131027
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -81
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603132054, timestamp:1446603132054, timestamp2:1446603131027
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -81
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-80
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603132058, timestamp:1446603132055, timestamp2:1446603132054
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -81
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -80.0
+I/RangedIBeacon(15093): Now:1446603133114, timestamp:1446603133114, timestamp2:1446603132055
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 5
+D/RangedIBeacon(15093): size = 5
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -78
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-73
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -80.0
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -78
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-71
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -78.0
+I/RangedIBeacon(15093): Now:1446603134102, timestamp:1446603134101, timestamp2:1446603133116
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -78
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-71
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -77.0
+I/RangedIBeacon(15093): Now:1446603134102, timestamp:1446603134102, timestamp2:1446603134101
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -78
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-31
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -75.0
+I/RangedIBeacon(15093): Now:1446603135136, timestamp:1446603135135, timestamp2:1446603134102
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -78
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-31
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -74.0
+I/RangedIBeacon(15093): Now:1446603135147, timestamp:1446603135147, timestamp2:1446603135135
+D/RangedIBeacon(15093): Rssiaveragetime = 5, size = 5
+D/RangedIBeacon(15093): size = 5
+D/RangedIBeacon(15093): inMeetingRoom = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 5 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-43
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -63.0
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 1
+D/RangedIBeacon(15093): calculateAverageRssi size: 1 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-43
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -62.0
+I/RangedIBeacon(15093): Now:1446603136193, timestamp:1446603136193, timestamp2:1446603136192
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 2
+D/RangedIBeacon(15093): calculateAverageRssi size: 2 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:1 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 9 measurements: -53.0
+I/RangedIBeacon(15093): Now:1446603137197, timestamp:1446603137197, timestamp2:1446603136193
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 3
+D/RangedIBeacon(15093): calculateAverageRssi size: 3 averageRssi: -55
+D/RangedIBeacon(15093): calculating new range measurement with new rssi measurement:-41
+D/RangedIBeacon(15093): Running average rssi based on startIndex:2 endIndex: 7
+D/RangedIBeacon(15093): Running average rssi based on 10 measurements: -51.0
+I/RangedIBeacon(15093): Now:1446603137198, timestamp:1446603137198, timestamp2:1446603137197
+D/RangedIBeacon(15093): Rssiaveragetime = 10, size = 4
+D/RangedIBeacon(15093): calculateAverageRssi size: 4 averageRssi: -55
